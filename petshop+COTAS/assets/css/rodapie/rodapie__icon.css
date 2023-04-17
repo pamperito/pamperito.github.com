@@ -1,0 +1,10 @@
+.rodapie__icon{
+    display: flex;
+    margin-right: 1.25rem;
+
+}
+
+.rodapie__icon:hover{
+    transform: scale(1.4);
+    transition: 1s;
+}

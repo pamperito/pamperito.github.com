@@ -1,0 +1,7 @@
+.receta__titulo{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px; /*1.4375rem*/
+    line-height: 27px;
+}

@@ -1,0 +1,21 @@
+.comprar__descripcion{
+    margin-top: 20px;
+    display: inline;
+    width: 50%;
+    justify-content: center;
+    border-style: solid;
+    border-radius: 10px;
+
+}
+
+.como__comprar{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+
+/*.fondo__pantalla{
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY1uff9_jwEs8kWbaee29jcg--PoDgtchojA&usqp=CAU);
+}*/
+

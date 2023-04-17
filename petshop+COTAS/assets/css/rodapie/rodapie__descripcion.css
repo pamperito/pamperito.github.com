@@ -1,0 +1,25 @@
+.rodapie__descripcion{
+    display: flex;
+    font-size: 2rem;
+    margin-left: 5rem;
+    color: #8c8888;
+    text-decoration: none;
+}
+
+@media screen and (min-width: 320) {
+    .rodapie__descripcion{
+        margin: 0;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .rodapie__descripcion{
+        margin: 0;
+    }
+}
+
+/*@media screen and (max-width: 992px) {
+    .contacto{
+        padding: 5rem 0 0 5rem;
+    }
+}*/
