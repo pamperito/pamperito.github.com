@@ -7,21 +7,21 @@
     list-style: none;
 }
 
-@media screen and (min-width: 320) {
+@media screen and (max-width: 320) {
     .medios__pago{
         padding: 5rem 0 0 1rem;
         flex-direction: column;
     }
 }
 
-@media screen and (min-width: 768px) {
+@media screen and (max-width: 768px) {
     .medios__pago{
         padding: 5rem 0 0 2.5rem;
         flex-direction: column;
     }
 }
 
-@media screen and (min-width: 992px) {
+@media screen and (max-width: 992px) {
     .medios__pago{
         padding: 5rem 0 0 5rem;
     }
