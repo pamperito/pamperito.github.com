@@ -1,5 +1,6 @@
 .medios__pago{
     display: flex;
+    flex-direction: row;
     justify-content: space-between;
     align-items: center;
 }
@@ -9,14 +10,14 @@
 
 @media screen and (max-width: 320) {
     .medios__pago{
-        padding: 5rem 0 0 1rem;
+        padding: 0.5rem 0 0 0.1rem;
         flex-direction: column;
     }
 }
 
 @media screen and (max-width: 768px) {
     .medios__pago{
-        padding: 5rem 0 0 2.5rem;
+        padding: 0.5rem 0 0 0.2rem;
         flex-direction: column;
     }
 }
